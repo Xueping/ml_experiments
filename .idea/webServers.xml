@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ssh://ubuntu@138.25.213.130:22/usr/bin/python3" name="ssh://ubuntu@138.25.213.130:22/usr/bin/python3" url="http://138.25.213.130">
+        <fileTransfer host="138.25.213.130" port="22" rootFolder="/home/ubuntu/Documents/xp" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

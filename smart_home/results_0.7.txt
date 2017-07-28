@@ -1,0 +1,4 @@
+accuracy = 0.864399664147775 	speed
+accuracy = 0.8490447197144657 	temp
+accuracy = 0.95				  	direction
+accuracy = 0.9746			  	mode
